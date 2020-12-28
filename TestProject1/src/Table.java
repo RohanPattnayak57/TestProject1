@@ -10,5 +10,4 @@ public class Table {
 	        {
 	            System.out.println(r+ " x "+i+" = "+i*r);
 	        }
-	    }
-}
+	    }}
