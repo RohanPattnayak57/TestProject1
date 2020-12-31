@@ -9,8 +9,8 @@ public class Assignment1{
         System.out.println("enter the number:");
         int a=scan.nextInt();
         String print="";
-        if(a%2==1){
-          print = "weird";
+        if(a%2 ==1){
+        	 print = "weird";
         }
         else {
             if (a >= 2 && a <= 5) {
@@ -20,6 +20,8 @@ public class Assignment1{
             } else {
                 print = "Not weird";
             }
-        System.out.println(print);   
+         
     }
-    }}
+        System.out.println(print); 
+    }
+	}
